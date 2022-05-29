@@ -13,6 +13,8 @@
 
 </p>
 
+<img src="https://camo.githubusercontent.com/8a61a9a5d406bb9f404d40cadc0a89a1a3481758af0174d3b393c359e3fe8f76/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d74696d654175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d57656c636f6d652126646573633d49253230616d253230416c616e2532304d617274696e657a26666f6e7453697a653d393026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d33382664657363416c69676e3d35372664657363416c69676e593d3535266465736353697a653d3330" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=wave&amp;color=timeAuto&amp;height=300&amp;section=header&amp;text=Welcome!&amp;desc=I%20am%20Alan%20Martinez&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;descAlign=57&amp;descAlignY=55&amp;descSize=30" style="max-width: 100%;">
+
 # I'm a
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Engineer;With+Passionate+Interest+And;Experience+In+Blockchain+And+NFTs;)](https://git.io/typing-svg)

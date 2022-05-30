@@ -35,36 +35,6 @@
 </tr>
 </table>
 
-<!-- Github Stats, coding streak, Most used languages analytics-->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
-</p>
-
----
-
-<!-- About Me Section -->
-
-## About Me
-
-<!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
-
-🔭 I’m currently working on **Rust** and **DevOps**
-
-🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
-
-👯 I’m looking to _collaborate_ on **Rust** projects
-
-🤔 I’m looking for help with **Rust** and **AWS**
-
-💬 Ask me about **Rust**, **DevOps** and **AWS**
-
-😄 Pronouns: **_He/His_**
-
-📫 How to reach me: **royrustdev@gmail.com**
-
 <br />
 <!-- Contact Section -->
 

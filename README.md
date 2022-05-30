@@ -16,20 +16,22 @@
 <!-- Skills as a table -->
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React icon" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL icon" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://github.com/alanmartinez24/alanmartinez24/raw/main/icons/ethereum.png?raw=true" alt="Ethereum" width="200" style="max-width: 100%;"/></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/scss.svg" alt="scss icon" /></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://github.com/alanmartinez24/alanmartinez24/raw/main/icons/nodejs.png?raw=true" alt="nodejs icon" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://github.com/alanmartinez24/alanmartinez24/raw/main/icons/metamask.png?raw=true" alt="Metamask" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://github.com/alanmartinez24/alanmartinez24/raw/main/icons/nft.png?raw=true" alt="NFT" width="200" style="max-width: 100%;"/></td>
+<td><img src="https://github.com/alanmartinez24/alanmartinez24/raw/main/icons/defi.png?raw=true" alt="DeFi" width="200" style="max-width: 100%;"/></td>
 </tr>
 </table>
 

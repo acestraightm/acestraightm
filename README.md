@@ -12,7 +12,13 @@
 # I'm a
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Engineer;With+Passionate+Interest+And;Experience+In+Blockchain+And+NFTs;)](https://git.io/typing-svg)
+#### I am a software engineer with BSc and 7+ years of experience in software engineering and 2 years of experience in blockchain industry. As a blockchain enthusiast, I am really interested in DeFi and NFT industries, can't wait to be involved in any interesting projects.
+- Specialized in Front-End with React + Web3, Back-End with Python Django and Nodejs
+- DeFi protocols & experience: AMM, vAMM, Curve, Exchange, Derivatives Exchange
+- NFT: OpenSea, IPFS.
+- Smart Contracts: Solidity(ERC20, ERC721, OpenZeppelin, Truffle, Hardhat), Rust, Go
 
+<br />
 <!-- Skills as a table -->
 <table>
 <tr>

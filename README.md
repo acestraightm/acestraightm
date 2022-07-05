@@ -7,6 +7,17 @@
 </a>
 </p>
 
+# Mentionable Career
+#### Blockchain & NFT Front-End Engineer
+- Built the SPA to upload user's own pictures and mint them as NFTs onto Ethereum and Polygon network for NFT digital frames
+- Adopted WalletConnect bridge to connect and conduct transactions with Metamask and TrustWallet
+- Building and deploying the minting smart contract by using Truffle
+
+#### Senior Full-Stack Engineer at FDL Logistics
+- Spent 4+ years as full stack engineer and led several web projects to success with django/react/postgresql stack
+- Built infrastructure and development pipeline for medium/large scale websites
+- Always delivered high-quality source codes by providing automated testing and CI/CD flows
+
 # I'm a
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+Engineer;With+Passionate+Interest+And;Experience+In+Blockchain+And+NFTs;)](https://git.io/typing-svg)

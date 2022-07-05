@@ -45,7 +45,7 @@
 <!-- Contact Section -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
+<a href="https://www.linkedin.com/in/michael-behn-293abb223/" target="_blank">
 <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/linkedin.svg" alt="my linkedin account" />
 </a>
 </p>

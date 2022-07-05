@@ -18,6 +18,9 @@
 - Built infrastructure and development pipeline for medium/large scale websites
 - Always delivered high-quality source codes by providing automated testing and CI/CD flows
 
+<br/>
+<br/>
+
 # I'm a
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+Engineer;With+Passionate+Interest+And;Experience+In+Blockchain+And+NFTs;)](https://git.io/typing-svg)

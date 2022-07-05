@@ -14,7 +14,7 @@
 - Building and deploying the minting smart contract by using Truffle/Hardhat
 
 #### Senior Full-Stack Engineer at FDL Logistics
-- Spent 4+ years as full stack engineer and led several web projects to success with django/react/postgresql stack
+- Spent 4+ years as full stack engineer and led several web projects to success with Django/React/Postgresql/AWS stack
 - Built infrastructure and development pipeline for medium/large scale websites
 - Always delivered high-quality source codes by providing automated testing and CI/CD flows
 

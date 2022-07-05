@@ -19,7 +19,6 @@
 - Always delivered high-quality source codes by providing automated testing and CI/CD flows
 
 <br/>
-<br/>
 
 # I'm a
 

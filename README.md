@@ -50,10 +50,5 @@
 </a>
 </p>
 
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
+<p align="center"><b>Thank You for visiting my profile</b></p>
 
----
-
-Credit: [royrustdev](https://github.com/royrustdev)
-
-Last Edited on: 03/05/2022

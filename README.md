@@ -8,10 +8,10 @@
 </p>
 
 # Mentionable Career
-#### Blockchain & NFT Front-End Engineer
+#### Blockchain & NFT Front-End Engineer at Sweet
 - Built the SPA to upload user's own pictures and mint them as NFTs onto Ethereum and Polygon network for NFT digital frames
 - Adopted WalletConnect bridge to connect and conduct transactions with Metamask and TrustWallet
-- Building and deploying the minting smart contract by using Truffle
+- Building and deploying the minting smart contract by using Truffle/Hardhat
 
 #### Senior Full-Stack Engineer at FDL Logistics
 - Spent 4+ years as full stack engineer and led several web projects to success with django/react/postgresql stack
